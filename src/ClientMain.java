@@ -34,5 +34,6 @@ public class ClientMain {
         catch(Exception e){
             System.out.println("Thread exited");
         }
+        /// Nothing
     }
 }
